@@ -129,7 +129,7 @@ infrared /
 ```
 ## Dependencies
 
-Infos about the Dependencies can be found in [go.mod](https://github.com/localleon/barco-slm-network/blob/master/go/go.mod) and [go.sum](https://github.com/localleon/barco-slm-network/blob/master/go/go.sum)
+Infos about the Dependencies can be found in [go.mod](https://github.com/localleon/barco-slm-network/blob/master/go/go.mod) and [go.sum](https://github.com/localleon/barco-slm-network/blob/master/go/go.sum).
 
 ## Develop / Build
 Pull Requests and Issues are always welcome. 
