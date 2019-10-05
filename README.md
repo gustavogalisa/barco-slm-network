@@ -128,7 +128,7 @@ infrared /
         arrowright
 ```
 ## Dependencies
-```
+
 - Project now supports Go11 Modules
 - Dependencies Section should have a link to [go.mod](https://github.com/localleon/barco-slm-network/blob/master/go/go.mod) and [go.sum](https://github.com/localleon/barco-slm-network/blob/master/go/go.sum)
 
